@@ -1,3 +1,6 @@
+secrets/*.pem
+secrets/*.pub
+secrets/node*
 trusted_certs/*
 syntaxcache/*
 tmp/*
